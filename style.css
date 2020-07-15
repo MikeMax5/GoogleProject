@@ -1,0 +1,82 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Impact, "Arial", Arial, Verdana, sans-serif;
+
+}
+
+#nav{
+height: 22vh;width: 110%;
+
+
+}
+#one{
+	font-size: 13px;
+}
+
+#two{
+	font-size: 13px;
+}
+
+
+#mainlist{
+	list-style: none;
+	margin-left: 1076px;
+}
+li{
+	float: left;padding: 7px;
+}
+#mg{
+	height: 24px;width: 24px;
+	margin-top: -5px;
+}
+#ng{
+	padding-top: -5px;
+	margin-top: -7.5px;
+}
+#mic{
+
+	height: 28px;
+	margin-left: 440px;
+}
+
+#google{
+	margin-left: 500px;
+}
+#ten{
+	font-size: 13px;
+}
+
+input{
+	height: 40px;width: 500px;
+	margin-left: 370px;
+	padding-left: 15px;
+	font-size: 20px;
+	border: 1px solid #e5e5e5;
+	border-radius: 25px;
+
+}
+
+
+button{
+	height: 38px;width: 140px;
+	background-color: #f6f6f6;
+	font-size: 14px;color: #222222;
+	margin-top: 30px;
+	border: 1px solid #e5e5e5;
+
+}
+
+#footer{
+	height: 45px;width: 1363px;
+	background-color: #f2f2f2;
+
+}
+#secondlist{
+	list-style: none;
+	margin-left: -22.5px;
+	color: #6f6f6f;
+	font-size: 15px;
+
+
+}
